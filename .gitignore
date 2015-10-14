@@ -44,3 +44,8 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
+
+# .dll Files
+bulletjme64.dll
+lwjgl64.dll
+OpenAl64.dll
